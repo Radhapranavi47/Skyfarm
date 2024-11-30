@@ -1,0 +1,17 @@
+#a{
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:50px;
+    background-color: beige;
+}
+.t{
+    position: absolute;
+    height:250px;
+    width:300px;
+    top:145px;
+    right: 50px;
+    float: inline-end;
+}
+body{
+    background-color:blanchedalmond;
+}
